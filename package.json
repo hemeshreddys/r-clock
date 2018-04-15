@@ -1,9 +1,10 @@
 {
-  "name": "r-clock",
+  "name": "r_clock",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://hemeshreddys.github.io/r-clock",
+  "homepage": "http://hemeshreddys.github.io/r_clock",
   "dependencies": {
+    "gh-pages": "^1.1.0",
     "moment": "^2.22.0",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
